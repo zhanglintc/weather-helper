@@ -1,0 +1,368 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yue Ya Jie",
+               "short_name" : "Yue Ya Jie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fengjie Xian",
+               "short_name" : "Fengjie Xian",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing Shi",
+               "short_name" : "Chongqing Shi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "404600",
+               "short_name" : "404600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "56 Yue Ya Jie, Fengjie Xian, Chongqing Shi, China, 404600",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.019904,
+               "lng" : 109.469778
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0212529802915,
+                  "lng" : 109.4711269802915
+               },
+               "southwest" : {
+                  "lat" : 31.0185550197085,
+                  "lng" : 109.4684290197085
+               }
+            }
+         },
+         "place_id" : "ChIJCQT17VZ7jzYRqLXxOhNkxw4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fengjie",
+               "short_name" : "Fengjie",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fengjie, Chongqing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.37097259999999,
+                  "lng" : 109.771141
+               },
+               "southwest" : {
+                  "lat" : 30.4869746,
+                  "lng" : 109.0154905
+               }
+            },
+            "location" : {
+               "lat" : 31.018498,
+               "lng" : 109.463987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.37097259999999,
+                  "lng" : 109.771141
+               },
+               "southwest" : {
+                  "lat" : 30.4869746,
+                  "lng" : 109.0154905
+               }
+            }
+         },
+         "place_id" : "ChIJ6-ppfeRijzYRfEC0tM_ZeTc",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chongqing, Chongqing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2011871,
+                  "lng" : 110.1998582
+               },
+               "southwest" : {
+                  "lat" : 28.1602253,
+                  "lng" : 105.2897606
+               }
+            },
+            "location" : {
+               "lat" : 29.56301,
+               "lng" : 106.551557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7401968,
+                  "lng" : 106.8138242
+               },
+               "southwest" : {
+                  "lat" : 29.3696283,
+                  "lng" : 106.2832832
+               }
+            }
+         },
+         "place_id" : "ChIJQ0_m87o0kzYRIbOI3BaGn94",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "404600",
+               "short_name" : "404600",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fengjie",
+               "short_name" : "Fengjie",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fengjie, Chongqing, China, 404600",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.190517,
+                  "lng" : 109.5687103
+               },
+               "southwest" : {
+                  "lat" : 31.0115714,
+                  "lng" : 109.46012
+               }
+            },
+            "location" : {
+               "lat" : 31.0186016,
+               "lng" : 109.4638961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1146143,
+                  "lng" : 109.5687103
+               },
+               "southwest" : {
+                  "lat" : 31.0115714,
+                  "lng" : 109.46012
+               }
+            }
+         },
+         "place_id" : "ChIJQ1a4XFB7jzYRrqZiuMJZJYA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "404602",
+               "short_name" : "404602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fengjie",
+               "short_name" : "Fengjie",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fengjie, Chongqing, China, 404602",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.0413067,
+                  "lng" : 109.5687103
+               },
+               "southwest" : {
+                  "lat" : 30.8293751,
+                  "lng" : 109.3738592
+               }
+            },
+            "location" : {
+               "lat" : 30.9777456,
+               "lng" : 109.5091783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0413067,
+                  "lng" : 109.5687103
+               },
+               "southwest" : {
+                  "lat" : 30.8293751,
+                  "lng" : 109.3738592
+               }
+            }
+         },
+         "place_id" : "ChIJi8Ej9vd8jzYRqXUga0Ztoho",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chongqing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2011872,
+                  "lng" : 110.1998583
+               },
+               "southwest" : {
+                  "lat" : 28.1602253,
+                  "lng" : 105.2897606
+               }
+            },
+            "location" : {
+               "lat" : 29.56301,
+               "lng" : 106.551557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2011872,
+                  "lng" : 110.1998583
+               },
+               "southwest" : {
+                  "lat" : 28.1602253,
+                  "lng" : 105.2897606
+               }
+            }
+         },
+         "place_id" : "ChIJF29zVi8YkjYRm0fNSFdwVao",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.56097399999999,
+                  "lng" : 134.7728099
+               },
+               "southwest" : {
+                  "lat" : 18.1576157,
+                  "lng" : 73.4994136
+               }
+            },
+            "location" : {
+               "lat" : 35.86166,
+               "lng" : 104.195397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.56097399999999,
+                  "lng" : 134.7728099
+               },
+               "southwest" : {
+                  "lat" : 18.1576157,
+                  "lng" : 73.4994136
+               }
+            }
+         },
+         "place_id" : "ChIJwULG5WSOUDERbzafNHyqHZU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
